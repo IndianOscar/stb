@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="HBOHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo.png", HBO
+https://sin-4.edge.macan.live/free/hbo/playlist.m3u8
+#EXTINF:-1 tvg-ID="HBOFamilyHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo_family.png", HBO Family
+https://sin-4.edge.macan.live/free/hbo_family/playlist.m3u8
+#EXTINF:-1 tvg-ID="HBOHitsHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo_hits.png", HBO Hits
+https://sin-4.edge.macan.live/free/hbo_hits/playlist.m3u8
+#EXTINF:-1 tvg-ID="HBOSignatureHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo_signature.png", HBO Signature
+https://sin-4.edge.macan.live/free/hbo_signature/playlist.m3u8
+#EXTINF:-1 tvg-ID="RED.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/red_hbo.png", RED by HBO
+https://sin-4.edge.macan.live/free/redhbo/playlist.m3u8
+#EXTINF:-1 tvg-ID="CINEMAX.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/cinemaxa.png", Cinemax by HBO
+https://sin-4.edge.macan.live/free/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/781-7816068_fx-logo-png-transparent-fxx-network.png" group-title="MOVIE ZI", FX Movie TV
+https://sin-4.edge.macan.live/free/fx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/107-1071261_fox-movies-vr-app-fox-movies.png" group-title="MOVIE ZI",FOX ID
+https://sin-4.edge.macan.live/free/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="MOVIE ZI",FOX FAMILY MOVIES HD
+https://sin-4.edge.macan.live/free/foxfamilymovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/FOX_Action_Movies_%282017%29.png" group-title="MOVIE ZI",FOX ACTION MOVIES HD
+https://sin-4.edge.macan.live/free/foxactionmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="MOVIE ZI",FOX CRIME HD
+https://sin-4.edge.macan.live/free/foxcrime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox-Life.png/1200px-Fox-Life.png" group-title="MOVIE ZI",FOX LIFE HD
+https://sin-4.edge.macan.live/free/foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561831/FOX_Movies_HD.png" group-title="MOVIE ZI",FOX MOVIES PREMIUM HD
+https://sin-4.edge.macan.live/free/foxmoviespremium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="MOVIE ZI",AXN HD
+https://sin-4.edge.macan.live/free/axn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIE ZI",HITS MOVIES 1 HD
+https://sin-4.edge.macan.live/free/hits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIE ZI",HITS MOVIES 2 HD
+https://sin-4.edge.macan.live/free/hits_movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="MOVIE ZI",WARNER TV
+https://sin-4.edge.macan.live/free/warnertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/1200px-SBS_World_Movies_logo_2019.svg.png" group-title="MOVIE ZI",KIX  MOVIE HD
+https://sin-4.edge.macan.live/free/kix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://24jam.live/wp-content/uploads/2019/04/celestial-movies.png" group-title="MOVIE ZI",CELESTIAL MOVIE ID
+https://sin-4.edge.macan.live/free/cm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://macan.live/img/ccm.png" group-title="MOVIE ZI",CELESTIAL CLASIC MOVIE ID
+https://sin-4.edge.macan.live/free/ccm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/Zee_Bioskop_2013.png" group-title="MOVIE ZI",ZEE BIOSKOP HD
+https://sin-4.edge.macan.live/free/zeebioskop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://macan.live/img/star_chinese_movies.png" group-title="MOVIE ZI",STAR CHINESE MOVIES
+https://sin-4.edge.macan.live/free/scm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ac2674075f9ee1ecc5c06b7/1576594266457-G825Y45SLTQM0W74RLZO/ke17ZwdGBToddI8pDm48kAa_TNiM17qVI_IOYkb0oDcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc0TbEe-8pnUXHe4m1T0Y15MJGNpnY0IYtf2WiVbxRCkY2EMhXEvenwZSpcvXl2wJ4/Screenshot+2019-12-17+at+14.50.30.png" group-title="MOVIE ZI",FLIK HD
+https://sin-4.edge.macan.live/free/flik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/406-4068310_foxtel-movies-thriller-foxtel-movies-premiere.png" group-title="MOVIE ZI",THRILL MOVIES
+https://sin-4.edge.macan.live/free/thrill/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="MOVIE ZI",TVN 
+https://sin-4.edge.macan.live/free/tvn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="MOVIE ZI",TVN MOVIES
+https://sin-4.edge.macan.live/free/tvn_movies/playlist.m3u8
