@@ -11,8 +11,17 @@ https://sin-4.edge.macan.live/free/hbo_signature/playlist.m3u8
 https://sin-4.edge.macan.live/free/redhbo/playlist.m3u8
 #EXTINF:-1 tvg-ID="CINEMAX.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/cinemaxa.png", Cinemax by HBO
 https://sin-4.edge.macan.live/free/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/781-7816068_fx-logo-png-transparent-fxx-network.png" group-title="MOVIE ZI", FX Movie TV
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/781-7816068_fx-logo-png-transparent-fxx-network.png" group-title="Movies", FX Movie TV
 https://sin-4.edge.macan.live/free/fx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/107-1071261_fox-movies-vr-app-fox-movies.png" group-title="Movies",FOX ID
+https://sin-4.edge.macan.live/free/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movies",FOX FAMILY MOVIES HD
+https://sin-4.edge.macan.live/free/foxfamilymovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/FOX_Action_Movies_%282017%29.png" group-title="Movies",FOX ACTION MOVIES HD
+https://sin-4.edge.macan.live/free/foxactionmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="Movies",FOX CRIME HD
 https://sin-4.edge.macan.live/free/foxcrime/playlist.m3u8
