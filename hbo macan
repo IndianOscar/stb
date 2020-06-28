@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="HBOHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo.png", HBO
-https://sin-4.edge.macan.live/free/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIwIDI6MjM6NDcgQU0maGFzaF92YWx1ZT1sRDNXam91N3JpOGlnWVg3SUMvNS9BPT0maWQ9bWFjYW5ncmF0aXNhbnxNQUNBTklQVFZQbGF5ZXJ8MTAzLjI0Ny45LjM5fGVfa29uc2VyfDE1OTMzMTEzMjczMDV8ZW5kdXNlcnw1ZGJhZGViMjY1OWMyMTZiNjNhYWUzM2EmdmFsaWRtaW51dGVzPTE1&token=LWYXyYM7MFShCjbJt5zvFjTq2EP9gI0iSjB3XV6JH0WUB84KjvBbo11moqRqqJY84JOQbZWWAD46ldTLiCRApOrjPl0x6A2Ymp0XHacXLs6YDBKMocghCyk7QI4p2bdGw9t4QEuBgOBTMJn4Wut2Gtpmeby71EDHtDp2H6p0rDetJbDQlOq5dZO1Z8OBWzy032r
+https://sin-4.edge.macan.live/free/hbo/playlist.m3u8
 #EXTINF:-1 tvg-ID="HBOFamilyHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo_family.png", HBO Family
 https://sin-4.edge.macan.live/free/hbo_family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIwIDI6MjM6NDcgQU0maGFzaF92YWx1ZT1sRDNXam91N3JpOGlnWVg3SUMvNS9BPT0maWQ9bWFjYW5ncmF0aXNhbnxNQUNBTklQVFZQbGF5ZXJ8MTAzLjI0Ny45LjM5fGVfa29uc2VyfDE1OTMzMTEzMjczMDV8ZW5kdXNlcnw1ZGJhZGViMjY1OWMyMTZiNjNhYWUzM2EmdmFsaWRtaW51dGVzPTE1&token=LWYXyYM7MFShCjbJt5zvFjTq2EP9gI0iSjB3XV6JH0WUB84KjvBbo11moqRqqJY84JOQbZWWAD46ldTLiCRApOrjPl0x6A2Ymp0XHacXLs6YDBKMocghCyk7QI4p2bdGw9t4QEuBgOBTMJn4Wut2Gtpmeby71EDHtDp2H6p0rDetJbDQlOq5dZO1Z8OBWzy032r
 #EXTINF:-1 tvg-ID="HBOHitsHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.live/img/hbo_hits.png", HBO Hits
