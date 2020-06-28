@@ -14,8 +14,6 @@ https://sin-4.edge.macan.live/free/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/781-7816068_fx-logo-png-transparent-fxx-network.png" group-title="MOVIE ZI", FX Movie TV
 https://sin-4.edge.macan.live/free/fx/playlist.m3u8
 
-st.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="Movies",FOX CRIME HD
 https://sin-4.edge.macan.live/free/foxcrime/playlist.m3u8
 
